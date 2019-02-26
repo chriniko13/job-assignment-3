@@ -1,5 +1,8 @@
 ### Yoti Backend Assignment Test
 
+##### Travis Status:
+[![Build Status](https://travis-ci.com/chriniko13/job-assignment-3.svg?branch=master)](https://travis-ci.com/chriniko13/job-assignment-3)
+
 ##### Assignee: Nikolaos Christidis (nick.christidis@yahoo.com)
 
 
